@@ -4,7 +4,7 @@ and moreand moreand moreand moreand **moreand** moreand moreand moreand moreand 
 
 ***
 
-[apple](www.apple.com)
+[apple](https://www.apple.com)
 
 3. cat
 4. rat
