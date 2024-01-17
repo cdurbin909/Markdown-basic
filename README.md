@@ -4,7 +4,14 @@ and moreand moreand moreand moreand **moreand** moreand moreand moreand moreand 
 
 ***
 
+|Location|Time|
+|:---|:---:|
+|Texas|6|
+|California|14|
+
 [apple](https://www.apple.com)
+
+$f(x) = x_3$
 
 3. cat
 4. rat
